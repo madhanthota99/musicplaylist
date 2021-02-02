@@ -1,3 +1,3 @@
 # musicplaylist
  Music_Playlist_Player
- # e/musicplaylist
+ # This application will work in E directory or else change the directory in python file
